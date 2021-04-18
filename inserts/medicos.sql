@@ -1,149 +1,149 @@
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM1011/PB','João Silveira Guimarães','Cargiologista','83999999999');
+VALUES('CRM1011/PB','Joï¿½o Silveira Guimarï¿½es','Cargiologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM1012/PB','João Silveira Rosa','Cargiologista','83999999999');
+VALUES('CRM1012/PB','Joï¿½o Silveira Rosa','Cargiologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM1013/PB','João Silveira Melo','Cargiologista','83999999999');
+VALUES('CRM1013/PB','Joï¿½o Silveira Melo','Cargiologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM1014/PB','João Silveira Gomes','Cargiologista','83999999999');
+VALUES('CRM1014/PB','Joï¿½o Silveira Gomes','Cargiologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM1015/PB','João Silveira Lopes','Cargiologista','83999999999');
+VALUES('CRM1015/PB','Joï¿½o Silveira Lopes','Cargiologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM1016/PB','João Silveira Souza','Cargiologista','83999999999');
+VALUES('CRM1016/PB','Joï¿½o Silveira Souza','Cargiologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM1021/PB','João Cavalcante Guimarães','Cargiologista','83999999999');
+VALUES('CRM1021/PB','Joï¿½o Cavalcante Guimarï¿½es','Cargiologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM1022/PB','João Cavalcante Rosa','Cargiologista','83999999999');
+VALUES('CRM1022/PB','Joï¿½o Cavalcante Rosa','Cargiologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM1023/PB','João Cavalcante Melo','Cargiologista','83999999999');
+VALUES('CRM1023/PB','Joï¿½o Cavalcante Melo','Cargiologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM1024/PB','João Cavalcante Gomes','Cargiologista','83999999999');
+VALUES('CRM1024/PB','Joï¿½o Cavalcante Gomes','Cargiologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM1025/PB','João Cavalcante Lopes','Cargiologista','83999999999');
+VALUES('CRM1025/PB','Joï¿½o Cavalcante Lopes','Cargiologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM1026/PB','João Cavalcante Souza','Cargiologista','83999999999');
+VALUES('CRM1026/PB','Joï¿½o Cavalcante Souza','Cargiologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM1031/PB','João Carvalho Guimarães','Cargiologista','83999999999');
+VALUES('CRM1031/PB','Joï¿½o Carvalho Guimarï¿½es','Cargiologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM1032/PB','João Carvalho Rosa','Cargiologista','83999999999');
+VALUES('CRM1032/PB','Joï¿½o Carvalho Rosa','Cargiologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM1033/PB','João Carvalho Melo','Cargiologista','83999999999');
+VALUES('CRM1033/PB','Joï¿½o Carvalho Melo','Cargiologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM1034/PB','João Carvalho Gomes','Cargiologista','83999999999');
+VALUES('CRM1034/PB','Joï¿½o Carvalho Gomes','Cargiologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM1035/PB','João Carvalho Lopes','Cargiologista','83999999999');
+VALUES('CRM1035/PB','Joï¿½o Carvalho Lopes','Cargiologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM1036/PB','João Carvalho Souza','Cargiologista','83999999999');
+VALUES('CRM1036/PB','Joï¿½o Carvalho Souza','Cargiologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM1041/PB','João Lima Guimarães','Cargiologista','83999999999');
+VALUES('CRM1041/PB','Joï¿½o Lima Guimarï¿½es','Cargiologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM1042/PB','João Lima Rosa','Cargiologista','83999999999');
+VALUES('CRM1042/PB','Joï¿½o Lima Rosa','Cargiologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM1043/PB','João Lima Melo','Cargiologista','83999999999');
+VALUES('CRM1043/PB','Joï¿½o Lima Melo','Cargiologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM1044/PB','João Lima Gomes','Cargiologista','83999999999');
+VALUES('CRM1044/PB','Joï¿½o Lima Gomes','Cargiologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM1045/PB','João Lima Lopes','Cargiologista','83999999999');
+VALUES('CRM1045/PB','Joï¿½o Lima Lopes','Cargiologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM1046/PB','João Lima Souza','Cargiologista','83999999999');
+VALUES('CRM1046/PB','Joï¿½o Lima Souza','Cargiologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM1051/PB','João Rocha Guimarães','Cargiologista','83999999999');
+VALUES('CRM1051/PB','Joï¿½o Rocha Guimarï¿½es','Cargiologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM1052/PB','João Rocha Rosa','Cargiologista','83999999999');
+VALUES('CRM1052/PB','Joï¿½o Rocha Rosa','Cargiologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM1053/PB','João Rocha Melo','Cargiologista','83999999999');
+VALUES('CRM1053/PB','Joï¿½o Rocha Melo','Cargiologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM1054/PB','João Rocha Gomes','Cargiologista','83999999999');
+VALUES('CRM1054/PB','Joï¿½o Rocha Gomes','Cargiologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM1055/PB','João Rocha Lopes','Cargiologista','83999999999');
+VALUES('CRM1055/PB','Joï¿½o Rocha Lopes','Cargiologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM1056/PB','João Rocha Souza','Cargiologista','83999999999');
+VALUES('CRM1056/PB','Joï¿½o Rocha Souza','Cargiologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM1061/PB','João Freitas Guimarães','Cargiologista','83999999999');
+VALUES('CRM1061/PB','Joï¿½o Freitas Guimarï¿½es','Cargiologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM1062/PB','João Freitas Rosa','Cargiologista','83999999999');
+VALUES('CRM1062/PB','Joï¿½o Freitas Rosa','Cargiologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM1063/PB','João Freitas Melo','Cargiologista','83999999999');
+VALUES('CRM1063/PB','Joï¿½o Freitas Melo','Cargiologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM1064/PB','João Freitas Gomes','Cargiologista','83999999999');
+VALUES('CRM1064/PB','Joï¿½o Freitas Gomes','Cargiologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM1065/PB','João Freitas Lopes','Cargiologista','83999999999');
+VALUES('CRM1065/PB','Joï¿½o Freitas Lopes','Cargiologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM1066/PB','João Freitas Souza','Cargiologista','83999999999');
+VALUES('CRM1066/PB','Joï¿½o Freitas Souza','Cargiologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM2011/PB','José Silveira Guimarães','Reumatologista','83999999999');
+VALUES('CRM2011/PB','Josï¿½ Silveira Guimarï¿½es','Reumatologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM2012/PB','José Silveira Rosa','Reumatologista','83999999999');
+VALUES('CRM2012/PB','Josï¿½ Silveira Rosa','Reumatologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM2013/PB','José Silveira Melo','Reumatologista','83999999999');
+VALUES('CRM2013/PB','Josï¿½ Silveira Melo','Reumatologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM2014/PB','José Silveira Gomes','Reumatologista','83999999999');
+VALUES('CRM2014/PB','Josï¿½ Silveira Gomes','Reumatologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM2015/PB','José Silveira Lopes','Reumatologista','83999999999');
+VALUES('CRM2015/PB','Josï¿½ Silveira Lopes','Reumatologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM2016/PB','José Silveira Souza','Reumatologista','83999999999');
+VALUES('CRM2016/PB','Josï¿½ Silveira Souza','Reumatologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM2021/PB','José Cavalcante Guimarães','Reumatologista','83999999999');
+VALUES('CRM2021/PB','Josï¿½ Cavalcante Guimarï¿½es','Reumatologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM2022/PE','José Cavalcante Rosa','Reumatologista','(81)99999 9999');
+VALUES('CRM2022/PE','Josï¿½ Cavalcante Rosa','Reumatologista','(81)99999 9999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM2023/BA','José Cavalcante Melo','Reumatologista','(84)99999-99999');
+VALUES('CRM2023/BA','Josï¿½ Cavalcante Melo','Reumatologista','(84)99999-99999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM2024/AL','José Cavalcante Gomes','Reumatologista','83999999999');
+VALUES('CRM2024/AL','Josï¿½ Cavalcante Gomes','Reumatologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM2025/SE','José Cavalcante Lopes','Reumatologista','(81)99999 9999');
+VALUES('CRM2025/SE','Josï¿½ Cavalcante Lopes','Reumatologista','(81)99999 9999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM2026/CE','José Cavalcante Souza','Reumatologista','(84)99999-99999');
+VALUES('CRM2026/CE','Josï¿½ Cavalcante Souza','Reumatologista','(84)99999-99999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM2031/PB','José Carvalho Guimarães','Reumatologista','83999999999');
+VALUES('CRM2031/PB','Josï¿½ Carvalho Guimarï¿½es','Reumatologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM2032/BA','José Carvalho Rosa','Reumatologista','(84)99999-99999');
+VALUES('CRM2032/BA','Josï¿½ Carvalho Rosa','Reumatologista','(84)99999-99999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM2033/SE','José Carvalho Melo','Reumatologista','(81)99999 9999');
+VALUES('CRM2033/SE','Josï¿½ Carvalho Melo','Reumatologista','(81)99999 9999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM2034/MA','José Carvalho Gomes','Reumatologista','83999999999');
+VALUES('CRM2034/MA','Josï¿½ Carvalho Gomes','Reumatologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM2035/PI','José Carvalho Lopes','Reumatologista','(84)99999-99999');
+VALUES('CRM2035/PI','Josï¿½ Carvalho Lopes','Reumatologista','(84)99999-99999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM2036/PE','José Carvalho Souza','Reumatologista','(81)99999 9999');
+VALUES('CRM2036/PE','Josï¿½ Carvalho Souza','Reumatologista','(81)99999 9999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM2041/PB','José Lima Guimarães','Reumatologista','83999999999');
+VALUES('CRM2041/PB','Josï¿½ Lima Guimarï¿½es','Reumatologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM2042/AL','José Lima Rosa','Reumatologista','83999999999');
+VALUES('CRM2042/AL','Josï¿½ Lima Rosa','Reumatologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM2043/MA','José Lima Melo','Reumatologista','83999999999');
+VALUES('CRM2043/MA','Josï¿½ Lima Melo','Reumatologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM2044/PB','José Lima Gomes','Reumatologista','83999999999');
+VALUES('CRM2044/PB','Josï¿½ Lima Gomes','Reumatologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM2045/AL','José Lima Lopes','Reumatologista','83999999999');
+VALUES('CRM2045/AL','Josï¿½ Lima Lopes','Reumatologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM2046/MA','José Lima Souza','Reumatologista','83999999999');
+VALUES('CRM2046/MA','Josï¿½ Lima Souza','Reumatologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM2051/PB','José Rocha Guimarães','Reumatologista','83999999999');
+VALUES('CRM2051/PB','Josï¿½ Rocha Guimarï¿½es','Reumatologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM2052/SE','José Rocha Rosa','Reumatologista','(81)99999 9999');
+VALUES('CRM2052/SE','Josï¿½ Rocha Rosa','Reumatologista','(81)99999 9999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM2053/PI','José Rocha Melo','Reumatologista','(84)99999-99999');
+VALUES('CRM2053/PI','Josï¿½ Rocha Melo','Reumatologista','(84)99999-99999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM2054/AL','José Rocha Gomes','Reumatologista','83999999999');
+VALUES('CRM2054/AL','Josï¿½ Rocha Gomes','Reumatologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM2055/RN','José Rocha Lopes','Reumatologista','(81)99999 9999');
+VALUES('CRM2055/RN','Josï¿½ Rocha Lopes','Reumatologista','(81)99999 9999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM2056/BA','José Rocha Souza','Reumatologista','(84)99999-99999');
+VALUES('CRM2056/BA','Josï¿½ Rocha Souza','Reumatologista','(84)99999-99999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM2061/PB','José Freitas Guimarães','Reumatologista','83999999999');
+VALUES('CRM2061/PB','Josï¿½ Freitas Guimarï¿½es','Reumatologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM2062/CE','José Freitas Rosa','Reumatologista','(84)99999-99999');
+VALUES('CRM2062/CE','Josï¿½ Freitas Rosa','Reumatologista','(84)99999-99999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM2063/PE','José Freitas Melo','Reumatologista','(81)99999 9999');
+VALUES('CRM2063/PE','Josï¿½ Freitas Melo','Reumatologista','(81)99999 9999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM2064/MA','José Freitas Gomes','Reumatologista','83999999999');
+VALUES('CRM2064/MA','Josï¿½ Freitas Gomes','Reumatologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM2065/BA','José Freitas Lopes','Reumatologista','(84)99999-99999');
+VALUES('CRM2065/BA','Josï¿½ Freitas Lopes','Reumatologista','(84)99999-99999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM2066/RN','José Freitas Souza','Reumatologista','(81)99999 9999');
+VALUES('CRM2066/RN','Josï¿½ Freitas Souza','Reumatologista','(81)99999 9999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM3011/PB','Maria Silveira Guimarães','Pediatra','83999999999');
+VALUES('CRM3011/PB','Maria Silveira Guimarï¿½es','Pediatra','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM3012/PB','Maria Silveira Rosa','Pediatra','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
@@ -155,7 +155,7 @@ VALUES('CRM3015/PB','Maria Silveira Lopes','Pediatra','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM3016/PB','Maria Silveira Souza','Pediatra','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM3021/PB','Maria Cavalcante Guimarães','Pediatra','83999999999');
+VALUES('CRM3021/PB','Maria Cavalcante Guimarï¿½es','Pediatra','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM3022/BA','Maria Cavalcante Rosa','Pediatra','(84)99999-99999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
@@ -167,7 +167,7 @@ VALUES('CRM3025/PI','Maria Cavalcante Lopes','Pediatra','(84)99999-99999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM3026/PE','Maria Cavalcante Souza','Pediatra','(81)99999 9999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM3031/PB','Maria Carvalho Guimarães','Pediatra','83999999999');
+VALUES('CRM3031/PB','Maria Carvalho Guimarï¿½es','Pediatra','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM3032/SE','Maria Carvalho Rosa','Pediatra','(81)99999 9999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
@@ -179,7 +179,7 @@ VALUES('CRM3035/RN','Maria Carvalho Lopes','Pediatra','(81)99999 9999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM3036/BA','Maria Carvalho Souza','Pediatra','(84)99999-99999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM3041/PB','Maria Lima Guimarães','Pediatra','83999999999');
+VALUES('CRM3041/PB','Maria Lima Guimarï¿½es','Pediatra','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM3042/MA','Maria Lima Rosa','Pediatra','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
@@ -191,7 +191,7 @@ VALUES('CRM3045/MA','Maria Lima Lopes','Pediatra','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM3046/AL','Maria Lima Souza','Pediatra','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM3051/PB','Maria Rocha Guimarães','Pediatra','83999999999');
+VALUES('CRM3051/PB','Maria Rocha Guimarï¿½es','Pediatra','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM3052/PI','Maria Rocha Rosa','Pediatra','(84)99999-99999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
@@ -203,7 +203,7 @@ VALUES('CRM3055/CE','Maria Rocha Lopes','Pediatra','(84)99999-99999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM3056/SE','Maria Rocha Souza','Pediatra','(81)99999 9999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM3061/PB','Maria Freitas Guimarães','Pediatra','83999999999');
+VALUES('CRM3061/PB','Maria Freitas Guimarï¿½es','Pediatra','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM3062/PE','Maria Freitas Rosa','Pediatra','(81)99999 9999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
@@ -215,7 +215,7 @@ VALUES('CRM3065/SE','Maria Freitas Lopes','Pediatra','(81)99999 9999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM3066/CE','Maria Freitas Souza','Pediatra','(84)99999-99999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM4011/PB','Francisco Silveira Guimarães','Ortopedista','83999999999');
+VALUES('CRM4011/PB','Francisco Silveira Guimarï¿½es','Ortopedista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM4012/PB','Francisco Silveira Rosa','Ortopedista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
@@ -227,7 +227,7 @@ VALUES('CRM4015/PB','Francisco Silveira Lopes','Ortopedista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM4016/PB','Francisco Silveira Souza','Ortopedista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM4021/PB','Francisco Cavalcante Guimarães','Ortopedista','83999999999');
+VALUES('CRM4021/PB','Francisco Cavalcante Guimarï¿½es','Ortopedista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM4022/AL','Francisco Cavalcante Rosa','Ortopedista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
@@ -239,7 +239,7 @@ VALUES('CRM4025/AL','Francisco Cavalcante Lopes','Ortopedista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM4026/MA','Francisco Cavalcante Souza','Ortopedista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM4031/PB','Francisco Carvalho Guimarães','Ortopedista','83999999999');
+VALUES('CRM4031/PB','Francisco Carvalho Guimarï¿½es','Ortopedista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM4032/MA','Francisco Carvalho Rosa','Ortopedista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
@@ -251,7 +251,7 @@ VALUES('CRM4035/MA','Francisco Carvalho Lopes','Ortopedista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM4036/AL','Francisco Carvalho Souza','Ortopedista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM4041/PB','Francisco Lima Guimarães','Ortopedista','83999999999');
+VALUES('CRM4041/PB','Francisco Lima Guimarï¿½es','Ortopedista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM4042/PB','Francisco Lima Rosa','Ortopedista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
@@ -263,7 +263,7 @@ VALUES('CRM4045/PB','Francisco Lima Lopes','Ortopedista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM4046/PB','Francisco Lima Souza','Ortopedista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM4051/PB','Francisco Rocha Guimarães','Ortopedista','83999999999');
+VALUES('CRM4051/PB','Francisco Rocha Guimarï¿½es','Ortopedista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM4052/AL','Francisco Rocha Rosa','Ortopedista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
@@ -275,7 +275,7 @@ VALUES('CRM4055/AL','Francisco Rocha Lopes','Ortopedista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM4056/MA','Francisco Rocha Souza','Ortopedista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM4061/PB','Francisco Freitas Guimarães','Ortopedista','83999999999');
+VALUES('CRM4061/PB','Francisco Freitas Guimarï¿½es','Ortopedista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM4062/MA','Francisco Freitas Rosa','Ortopedista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
@@ -287,7 +287,7 @@ VALUES('CRM4065/MA','Francisco Freitas Lopes','Ortopedista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM4066/AL','Francisco Freitas Souza','Ortopedista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM5011/PB','Luiz Silveira Guimarães','Neurologista','83999999999');
+VALUES('CRM5011/PB','Luiz Silveira Guimarï¿½es','Neurologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM5012/PB','Luiz Silveira Rosa','Neurologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
@@ -299,7 +299,7 @@ VALUES('CRM5015/PB','Luiz Silveira Lopes','Neurologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM5016/PB','Luiz Silveira Souza','Neurologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM5021/PB','Luiz Cavalcante Guimarães','Neurologista','83999999999');
+VALUES('CRM5021/PB','Luiz Cavalcante Guimarï¿½es','Neurologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM5022/SE','Luiz Cavalcante Rosa','Neurologista','(81)99999 9999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
@@ -311,7 +311,7 @@ VALUES('CRM5025/RN','Luiz Cavalcante Lopes','Neurologista','(81)99999 9999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM5026/BA','Luiz Cavalcante Souza','Neurologista','(84)99999-99999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM5031/PB','Luiz Carvalho Guimarães','Neurologista','83999999999');
+VALUES('CRM5031/PB','Luiz Carvalho Guimarï¿½es','Neurologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM5032/PI','Luiz Carvalho Rosa','Neurologista','(84)99999-99999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
@@ -323,7 +323,7 @@ VALUES('CRM5035/CE','Luiz Carvalho Lopes','Neurologista','(84)99999-99999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM5036/SE','Luiz Carvalho Souza','Neurologista','(81)99999 9999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM5041/PB','Luiz Lima Guimarães','Neurologista','83999999999');
+VALUES('CRM5041/PB','Luiz Lima Guimarï¿½es','Neurologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM5042/AL','Luiz Lima Rosa','Neurologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
@@ -335,7 +335,7 @@ VALUES('CRM5045/AL','Luiz Lima Lopes','Neurologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM5046/MA','Luiz Lima Souza','Neurologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM5051/PB','Luiz Rocha Guimarães','Neurologista','83999999999');
+VALUES('CRM5051/PB','Luiz Rocha Guimarï¿½es','Neurologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM5052/RN','Luiz Rocha Rosa','Neurologista','(81)99999 9999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
@@ -347,7 +347,7 @@ VALUES('CRM5055/PE','Luiz Rocha Lopes','Neurologista','(81)99999 9999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM5056/PI','Luiz Rocha Souza','Neurologista','(84)99999-99999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM5061/PB','Luiz Freitas Guimarães','Neurologista','83999999999');
+VALUES('CRM5061/PB','Luiz Freitas Guimarï¿½es','Neurologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM5062/BA','Luiz Freitas Rosa','Neurologista','(84)99999-99999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
@@ -359,7 +359,7 @@ VALUES('CRM5065/PI','Luiz Freitas Lopes','Neurologista','(84)99999-99999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM5066/PE','Luiz Freitas Souza','Neurologista','(81)99999 9999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM6011/PB','Luiza Silveira Guimarães','Dermatologista','83999999999');
+VALUES('CRM6011/PB','Luiza Silveira Guimarï¿½es','Dermatologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM6012/PB','Luiza Silveira Rosa','Dermatologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
@@ -371,7 +371,7 @@ VALUES('CRM6015/PB','Luiza Silveira Lopes','Dermatologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM6016/PB','Luiza Silveira Souza','Dermatologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM6021/PB','Luiza Cavalcante Guimarães','Dermatologista','83999999999');
+VALUES('CRM6021/PB','Luiza Cavalcante Guimarï¿½es','Dermatologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM6022/CE','Luiza Cavalcante Rosa','Dermatologista','(84)99999-99999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
@@ -383,7 +383,7 @@ VALUES('CRM6025/BA','Luiza Cavalcante Lopes','Dermatologista','(84)99999-99999')
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM6026/RN','Luiza Cavalcante Souza','Dermatologista','(81)99999 9999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM6031/PB','Luiza Carvalho Guimarães','Dermatologista','83999999999');
+VALUES('CRM6031/PB','Luiza Carvalho Guimarï¿½es','Dermatologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM6032/PE','Luiza Carvalho Rosa','Dermatologista','(81)99999 9999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
@@ -395,7 +395,7 @@ VALUES('CRM6035/SE','Luiza Carvalho Lopes','Dermatologista','(81)99999 9999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM6036/CE','Luiza Carvalho Souza','Dermatologista','(84)99999-99999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM6041/PB','Luiza Lima Guimarães','Dermatologista','83999999999');
+VALUES('CRM6041/PB','Luiza Lima Guimarï¿½es','Dermatologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM6042/MA','Luiza Lima Rosa','Dermatologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
@@ -407,7 +407,7 @@ VALUES('CRM6045/MA','Luiza Lima Lopes','Dermatologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM6046/AL','Luiza Lima Souza','Dermatologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM6051/PB','Luiza Rocha Guimarães','Dermatologista','83999999999');
+VALUES('CRM6051/PB','Luiza Rocha Guimarï¿½es','Dermatologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM6052/BA','Luiza Rocha Rosa','Dermatologista','(84)99999-99999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
@@ -419,7 +419,7 @@ VALUES('CRM6055/PI','Luiza Rocha Lopes','Dermatologista','(84)99999-99999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM6056/PE','Luiza Rocha Souza','Dermatologista','(81)99999 9999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
-VALUES('CRM6061/PB','Luiza Freitas Guimarães','Dermatologista','83999999999');
+VALUES('CRM6061/PB','Luiza Freitas Guimarï¿½es','Dermatologista','83999999999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
 VALUES('CRM6062/RN','Luiza Freitas Rosa','Dermatologista','(81)99999 9999');
 INSERT INTO MEDICOS(crm, nome, especialidade, telefone)
