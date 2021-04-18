@@ -1,0 +1,4 @@
+CREATE TABLE consultas_situacoes (
+id BIGSERIAL NOT NULL PRIMARY KEY,
+nome TEXT NOT NULL
+);

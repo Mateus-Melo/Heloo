@@ -1,0 +1,5 @@
+CREATE TABLE cidades (
+id BIGSERIAL NOT NULL PRIMARY KEY,
+nome TEXT NOT NULL,
+estado_sigla TEXT NOT NULL
+);
