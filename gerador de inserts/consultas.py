@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv("gerador de inserts\Datas.csv")
+df = pd.read_csv("gerador de inserts/Datas.csv")
 datas = list(df.sample(n=100000, replace=True)['Data'])
 pacientes = np.random.randint(1, 100001, 100000)
 medicos = np.random.randint(1, 217, 100000)
