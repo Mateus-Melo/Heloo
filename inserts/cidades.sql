@@ -7,7 +7,7 @@ VALUES('Teresina', 'PI');
 INSERT INTO cidades(nome, estado_sigla)
 VALUES('Fortaleza', 'CE');
 INSERT INTO cidades(nome, estado_sigla)
-VALUES('Salvador', 'Bahia');
+VALUES('Salvador', 'BA');
 INSERT INTO cidades(nome, estado_sigla)
 VALUES('São Luís', 'MA');
 INSERT INTO cidades(nome, estado_sigla)
