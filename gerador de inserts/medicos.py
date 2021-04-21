@@ -9,9 +9,9 @@ crm3 = ["1","2","3","4","5","6"]
 ufs = ["PB'","PE'","BA'","AL'","SE'","CE'","MA'","RN'","PI'"]
 especialidades = ["'Cargiologista'","'Reumatologista'", "'Pediatra'", "'Ortopedista'","'Neurologista'","'Dermatologista'"]
 
-telefones = ["'83999999999'","'(81)99999 9999'","'(84)99999-99999'"]
+telefones = ["'83999999999'","'(81)99999 9999'","'(84)99999-9999'"]
 
-arquivo = open("inserts/medicos.sql","a")
+arquivo = open("inserts/medicos.sql","a", encoding='utf-8')
 
 for i in range(6):
     for j in range(6):
