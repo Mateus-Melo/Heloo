@@ -24,6 +24,7 @@ populacao_cidades = pd.read_excel("etl/Lista-de-Municípios-com-IBGE-Brasil.xlsx
 cidades = remove_duplicatas(cidades)
 cidades = pd.merge(cidades, populacao_cidades,"left", left_on = "nome", right_on = "Município")
 cidades["População"] = cidades["População"].astype("int")
+cidades = cidades.drop("Município", 1)
 cidades.to_sql("dim_cidades", engine, if_exists = "replace", index=False)
 
 # Pacientes
