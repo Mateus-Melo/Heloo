@@ -24,31 +24,31 @@ populacao_cidades = pd.read_excel("etl/Lista-de-Municípios-com-IBGE-Brasil.xlsx
 cidades = remove_duplicatas(cidades)
 cidades = pd.merge(cidades, populacao_cidades,"left", left_on = "nome", right_on = "Município")
 cidades["População"] = cidades["População"].astype("int")
-cidades.to_sql("dim_cidades", engine, if_exists = "replace")
+cidades.to_sql("dim_cidades", engine, if_exists = "replace", index=False)
 
 # Pacientes
 
 telefones = pacientes["telefone"]
 pacientes["telefone"] = trata_telefones(telefones)
 pacientes = remove_duplicatas(pacientes)
-pacientes.to_sql("dim_pacientes", engine, if_exists = "replace")
+pacientes.to_sql("dim_pacientes", engine, if_exists = "replace", index=False)
 
 # Médicos
 
 telefones = medicos["telefone"]
 medicos["telefone"] = trata_telefones(telefones)
 medicos = remove_duplicatas(medicos)
-medicos.to_sql("dim_medicos", engine, if_exists = "replace")
+medicos.to_sql("dim_medicos", engine, if_exists = "replace", index=False)
 
 # Consultas Situações
 
 situacoes = remove_duplicatas(situacoes)
-situacoes.to_sql("dim_situacoes", engine, if_exists = "replace")
+situacoes.to_sql("dim_situacoes", engine, if_exists = "replace", index=False)
 
 # Consultas
 
 consultas = remove_duplicatas(consultas)
-consultas.to_sql("fato_consultas", engine, if_exists = "replace")
+consultas.to_sql("fato_consultas", engine, if_exists = "replace", index=False)
 
 
 
