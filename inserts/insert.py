@@ -5,6 +5,6 @@ inserts = ["cidades", "situacoes", "medicos", "pacientes", "consultas"]
 conn = pg.connect("dbname = Heloo user=postgres host=localhost password=1234")
 cur = conn.cursor()
 for i in inserts:
-    cur.execute(open("inserts/" + i + ".sql","r").read())
+    cur.execute(open("inserts/" + i + ".sql","r", encoding='utf-8').read())
     conn.commit()
 conn.close()
